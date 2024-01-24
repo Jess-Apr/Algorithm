@@ -15,23 +15,17 @@ for (let i = 0; i < n; i++) {
   }
 }
 
-function bfs(y, x, visited) {
-  const dy = [1, -1, 0, 0];
-  const dx = [0, 0, 1, -1];
-  const queue = [];
-  queue.push([y, x]);
+const dy = [1, -1, 0, 0];
+const dx = [0, 0, 1, -1];
 
-  while (queue.length) {
-    const [curY, curX] = queue.shift();
+function dfs(y, x, visited) {
+  for (let l = 0; l < 4; l++) {
+    const ny = y + dy[l];
+    const nx = x + dx[l];
 
-    for (let l = 0; l < 4; l++) {
-      const ny = curY + dy[l];
-      const nx = curX + dx[l];
-
-      if (ny >= 0 && ny < n && nx >= 0 && nx < n && !visited[ny][nx]) {
-        visited[ny][nx] = true;
-        queue.push([ny, nx]);
-      }
+    if (ny >= 0 && ny < n && nx >= 0 && nx < n && !visited[ny][nx]) {
+      visited[ny][nx] = true;
+      dfs(ny, nx, visited);
     }
   }
 }
@@ -45,7 +39,7 @@ for (let i = 0; i < max; i++) {
     for (let k = 0; k < n; k++) {
       if (!visited[j][k]) {
         visited[j][k] = true;
-        bfs(j, k, visited);
+        dfs(j, k, visited);
         cnt++;
       }
     }
