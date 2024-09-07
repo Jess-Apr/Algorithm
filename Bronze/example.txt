@@ -1,2 +1,4 @@
-7
-AAAACGT
+How are you today?
+Quite well, thank you, how about yourself?
+I live at number twenty four.
+#
