@@ -1,5 +1,1 @@
-module.exports = [
-  ["i", "drink", "water"],
-  ["want", "to"],
-  ["i", "want", "to", "drink", "water"],
-];
+module.exports = ["10203", "15"];
