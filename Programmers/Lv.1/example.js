@@ -1,1 +1,1 @@
-module.exports = ["10203", "15"];
+module.exports = "foobar";
