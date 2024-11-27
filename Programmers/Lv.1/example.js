@@ -1,1 +1,1 @@
-module.exports = "foobar";
+module.exports = 12;
