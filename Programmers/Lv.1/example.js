@@ -1,4 +1,4 @@
 module.exports = [
-  [1, 2, 3],
-  [false, false, true],
+  [-1, 0, 1],
+  [1, 0, -1],
 ];
