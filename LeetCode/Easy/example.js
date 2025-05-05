@@ -1,0 +1,1 @@
+module.exports = [3, 4, 4, 1, 2, 1];
