@@ -1,1 +1,1 @@
-module.exports = ["a B z", 4];
+module.exports = "try hello world";
