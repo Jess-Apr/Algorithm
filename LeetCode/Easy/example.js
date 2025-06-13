@@ -1,1 +1,7 @@
-module.exports = 10;
+module.exports = [
+  [],
+  function sum(accum, curr) {
+    return 0;
+  },
+  25,
+];
