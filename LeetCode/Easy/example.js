@@ -1,7 +1,1 @@
-module.exports = [
-  [],
-  function sum(accum, curr) {
-    return 0;
-  },
-  25,
-];
+module.exports = [[], 42];
