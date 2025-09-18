@@ -1,1 +1,4 @@
-module.exports = [[8, 5, 3, 2, 6], 6];
+module.exports = [
+  [1, 2],
+  [3, 4],
+];
