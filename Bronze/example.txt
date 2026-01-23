@@ -1,4 +1,7 @@
-3
-3 @ %
-10.4 # % @
-8 #
+1
+ABANANACOOKIE
+4
+BANANA
+LETTER
+COOKIES
+CAN
