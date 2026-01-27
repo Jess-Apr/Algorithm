@@ -1,4 +1,1 @@
-3
-despicable
-gru
-nth
+0
