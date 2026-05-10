@@ -1,1 +1,1 @@
-module.exports = 12;
+module.exports = ["aukks", "wbqd", 5];
