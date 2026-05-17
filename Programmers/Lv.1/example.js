@@ -1,1 +1,1 @@
-module.exports = "qwer";
+module.exports = 987;
