@@ -1,1 +1,1 @@
-module.exports = 118372;
+module.exports = ["Jane", "Kim"];
