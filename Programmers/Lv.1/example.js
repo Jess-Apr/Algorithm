@@ -1,1 +1,1 @@
-module.exports = [[3, 2, 6], 10];
+module.exports = "aaabbaccccabba";
