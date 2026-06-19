@@ -1,1 +1,1 @@
-module.exports = 12345;
+module.exports = [5, 24];
