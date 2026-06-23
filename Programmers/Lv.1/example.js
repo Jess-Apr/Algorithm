@@ -1,1 +1,8 @@
-module.exports = "Zbcdefg";
+module.exports = [
+  [1, 1, 1],
+  5,
+  [
+    [1, 2],
+    [3, 2],
+  ],
+];
