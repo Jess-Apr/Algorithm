@@ -1,1 +1,4 @@
-module.exports = ["..", "#."];
+module.exports = [
+  ["AGZ", "BSSS"],
+  ["ASA", "BGZ"],
+];
