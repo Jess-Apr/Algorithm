@@ -1,4 +1,1 @@
-module.exports = [
-  ["AGZ", "BSSS"],
-  ["ASA", "BGZ"],
-];
+module.exports = [24, 27];
