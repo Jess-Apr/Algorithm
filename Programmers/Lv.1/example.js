@@ -1,1 +1,1 @@
-module.exports = [24, 27];
+module.exports = 3;
