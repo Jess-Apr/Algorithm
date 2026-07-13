@@ -1,1 +1,1 @@
-module.exports = [5, 0, 2, 7];
+module.exports = ["07:22", "04:05", "00:15", "04:07", ["next"]];
