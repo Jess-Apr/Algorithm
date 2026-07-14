@@ -1,1 +1,4 @@
-module.exports = ["07:22", "04:05", "00:15", "04:07", ["next"]];
+module.exports = [
+  ["OSO", "OOO", "OXO", "OOO"],
+  ["E 2", "S 3", "W 1"],
+];
