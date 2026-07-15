@@ -1,4 +1,1 @@
-module.exports = [
-  ["OSO", "OOO", "OXO", "OOO"],
-  ["E 2", "S 3", "W 1"],
-];
+module.exports = "abcdefghijklmn.p";
