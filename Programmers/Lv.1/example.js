@@ -1,1 +1,1 @@
-module.exports = [4, [4, 4, 4, 4, 4]];
+module.exports = 3;
