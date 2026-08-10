@@ -1,4 +1,1 @@
-module.exports = [
-  [45, 4, 35, 20, 3, 9],
-  [20, 9, 3, 45, 4, 35],
-];
+module.exports = [["con", "ryan"], ["ryan con", "ryan con", "ryan con", "ryan con"], 3];
