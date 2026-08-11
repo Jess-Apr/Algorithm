@@ -1,1 +1,1 @@
-module.exports = [["con", "ryan"], ["ryan con", "ryan con", "ryan con", "ryan con"], 3];
+module.exports = [13, 3, 6];
