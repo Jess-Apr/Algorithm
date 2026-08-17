@@ -1,1 +1,4 @@
-module.exports = [10, 3, 2];
+module.exports = [
+  ["a", "b", "c"],
+  ["a b", "b a", "c a", "a c", "a c", "c a"],
+];
