@@ -1,4 +1,1 @@
-module.exports = [
-  ["a", "b", "c"],
-  ["a b", "b a", "c a", "a c", "a c", "c a"],
-];
+module.exports = ["5525", "1255"];
