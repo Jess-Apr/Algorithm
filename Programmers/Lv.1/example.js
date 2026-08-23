@@ -1,1 +1,1 @@
-module.exports = ["5525", "1255"];
+module.exports = ["ayaye", "uuu", "yeye", "yemawoo", "ayaayaa"];
