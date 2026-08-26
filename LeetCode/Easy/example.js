@@ -1,1 +1,4 @@
-module.exports = ["dog", "racecar", "car"];
+module.exports = [
+  [1, 2, 4],
+  [1, 3, 4],
+];
